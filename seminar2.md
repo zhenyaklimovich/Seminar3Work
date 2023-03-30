@@ -80,15 +80,22 @@ git diff
 ## Добавление исходного кода
 
 
+
+
+
 ## Добавление таблиц
 ### Таблицы
 
 В чистом Маркдауне нет синтаксиса для таблиц, а в GFM
 есть.
+
+
 First Header | Second Header
 ------------- | -------------
 Content Cell | Content Cell
 Content Cell | Content Cell
+
+
 
 Для красоты можно и по бокам линии нарисовать:
 | First Header | Second Header |
