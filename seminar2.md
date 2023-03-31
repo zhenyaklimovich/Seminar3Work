@@ -159,6 +159,7 @@ Content Cell | Content Cell
 | col 2 is | centered | $12 |
 | zebra stripes | are neat | ~~$1~~ |
 
-бла бла бла
+Внутри таблиц можно использовать ссылки, наклонный,
+жирный или зачеркнутый текст.
 
 
